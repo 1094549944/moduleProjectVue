@@ -1,0 +1,1 @@
+export default import home from "../views/home/v1/index.vue";import about from "../views/about/v1/index.vue"
